@@ -4,3 +4,4 @@ have no inspiration to learn
 git is magic
 successfully and complex
 somewhat confused
+this is a line testing stash
